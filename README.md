@@ -6,4 +6,4 @@
 # > BLACK TIGER MD 
 
 
-2. Click [FORK](https://github.com/user123ja/Muthu-MD-V1.2/fork)
+2. Click [FORK](https://github.com/Slsachiya99/SACHIYA-MD/upload/main/fork)
