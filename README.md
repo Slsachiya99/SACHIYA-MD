@@ -6,4 +6,6 @@
 # > BLACK TIGER MD 
 
 
-2. Click [FORK](https://github.com/Slsachiya99/SACHIYA-MD/upload/main/fork)
+1. Click [FORK](https://github.com/Slsachiya99/SACHIYA-MD/upload/main/fork)
+
+2. Then Click [DEPLOY](https://heroku.com/deploy) Button To Enjoy My Bot.
