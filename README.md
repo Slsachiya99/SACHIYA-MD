@@ -1,6 +1,6 @@
 # SACHIYA-MD
 
-        𝐒𝐋 𝐁𝐋𝐀𝐂𝐊 𝐓
+              𝐒𝐋 𝐁𝐋𝐀𝐂𝐊 𝐓𝐈𝐆𝐄𝐑 𝐓𝐌
 
 
 <img src="https://i.imgur.com/XHhlqtK.jpeg" alt="GIF" width="700"/>
@@ -12,4 +12,5 @@
 
 2. Click [FORK](https://github.com/Slsachiya99/SACHIYA-MD/upload/main/fork)
 
-. Then Click [DEPLOY](https://heroku.com/deploy) Button To Enjoy My Bot.
+3. Then Click [DEPLOY](https://heroku.com/deploy) Button To Enjoy My Bot.
+
