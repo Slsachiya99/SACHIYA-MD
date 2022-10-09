@@ -14,3 +14,5 @@
 
 3. Then Click [DEPLOY](https://heroku.com/deploy) Button To Enjoy My Bot.
 
+𝐓𝐀𝐍𝐊𝐒 ❤️ 𝐓𝐎 𝐁𝐘 𝐒𝐀𝐂𝐇𝐈𝐘𝐀 𝐓𝐌 𝐒𝐋 ❊
+thathsara
