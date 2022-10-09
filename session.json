@@ -1,0 +1,53 @@
+{
+
+  "creds": {
+
+    "noiseKey": {
+
+      "private": {
+
+        "type": "Buffer",
+
+        "data": "kGRJ1RwLBX8eB+79iXYvqkaeLDnbs2cgepNd/afLk3Q="
+
+      },
+
+      "public": {
+
+        "type": "Buffer",
+
+        "data": "oXMY9PFnjGwT7mN7IiWfKUM15hGBVCM24shRTfVJb3I="
+
+      }
+
+    },
+
+    "signedIdentityKey": {
+
+      "private": {
+
+        "type": "Buffer",
+
+        "data": "uFk2Dp7QZFH3M8IsUXe752m5wcMufGYi0iVhVb8CT1k="
+
+      },
+
+      "public": {
+
+        "type": "Buffer",
+
+        "data": "XNy+mGR5ypcD4mjD1aU/bOz4QCzTD7P5Tejygxp/dXs="
+
+      }
+
+    },
+
+    "signedPreKey": {
+
+      "keyPair": {
+
+        "private": {
+
+          "type": "Buffer",
+
+          "data": "OKhukh0HzLtO4Amxa33eOiZdRVwVrkpbFdSXrT
