@@ -1,0 +1,47 @@
+{
+
+  "name": "RED DRAGON BOT",
+
+  "description": "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘔𝘋 | By: RED-DRAGONᵀᴹ | 𝐌𝐑: ☬𝔻𝔸ℝ𝕂༒ℕ𝕀𝕋ℝ𝕆࿐",
+
+  "repository": "https://github.com/prabhasha2006/Red-Dragon",
+
+  "logo": "https://i.ibb.co/VCtXyTK/20220730-002949.jpg",
+
+  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
+
+  "buildpacks": [
+
+    {
+
+      "url": "heroku/nodejs"
+
+    },
+
+    {
+
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+
+    },
+
+    {
+
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+
+    }
+
+  ],
+
+   "formation": {
+
+        "worker": {
+
+            "quantity": 1,
+
+            "size": "free"
+
+        }
+
+    }
+
+}
