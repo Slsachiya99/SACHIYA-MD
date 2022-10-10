@@ -119,9 +119,9 @@ global.premium = ['+94704274987'] //ur premium numbers
 
 //other
 
-global.sessionName = 'session'
+global.sessionName = 'session´
 
-global.antitags = false
+global.antitags = falss
 
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 
